@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51047b49-3a02-4b3d-9e72-ae2ac987e7bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Codes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nilanjan/rough/Main.java" afterDir="false" />
+    <list default="true" id="51047b49-3a02-4b3d-9e72-ae2ac987e7bc" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/com/nilanjan/theory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.nilanjan.theory.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nilanjan.rough.Main" />
       <module name="Java Codes" />
@@ -54,8 +49,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.nilanjan.theory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nilanjan.theory.Main" />
+      <module name="Java Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nilanjan.theory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.nilanjan.theory.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -69,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665772206296</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1665772330224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665772330224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
