@@ -1,13 +1,19 @@
 package com.nilanjan.rough;
 
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
-        long a = System.currentTimeMillis();
-        for(int i = 0 ; i<100000 ; i++){
-            i = i+1-1;
-        }
-        long b = System.currentTimeMillis();
+        List<Integer> list;
 
-        System.out.println(b-a);
+        list = new ArrayList<>();
+
+        list = new LinkedList<>();
+
+
+
     }
 }

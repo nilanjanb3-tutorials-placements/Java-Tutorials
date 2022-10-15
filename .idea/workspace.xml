@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51047b49-3a02-4b3d-9e72-ae2ac987e7bc" name="Changes" comment="files added">
-      <change afterPath="$PROJECT_DIR$/src/com/nilanjan/rough/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nilanjan/theory/ObjectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/nilanjan/theory/StaticDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/nilanjan/rough/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nilanjan/rough/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/nilanjan/theory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nilanjan/theory/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.StaticDemo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nilanjan.rough.Demo" />
       <module name="Java Codes" />
@@ -66,6 +66,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nilanjan.theory.ObjectDemo" />
+      <module name="Java Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nilanjan.theory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nilanjan.theory.StaticDemo" />
+      <module name="Java Codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nilanjan.theory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.nilanjan.theory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.nilanjan.theory.Main" />
       <module name="Java Codes" />
@@ -81,6 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticDemo" />
+        <item itemvalue="Application.ObjectDemo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.nilanjan.theory.Main" />
@@ -110,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665773190737</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="files added">
+      <created>1665810740914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665810740914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
